@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Aasted</title>
+    <link>http://aasted.com/index.xml</link>
+    <description>Recent content on Matt Aasted</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Matt Aasted</copyright>
+    <lastBuildDate>Sun, 27 Nov 2016 12:09:19 -0800</lastBuildDate>
+    <atom:link href="http://aasted.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post again</title>
+      <link>http://aasted.com/post/first_post/</link>
+      <pubDate>Sun, 27 Nov 2016 12:09:19 -0800</pubDate>
+      
+      <guid>http://aasted.com/post/first_post/</guid>
+      <description>&lt;p&gt;I just migrated to Hugo as my blog generator, with the Robust theme with some light modifications.
+I&amp;rsquo;ll be updating the themes and posting more often now that I have a website generator.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
