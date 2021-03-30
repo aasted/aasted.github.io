@@ -1,14 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://aasted.com/2021-march/</loc>
+    <lastmod>2021-03-29T21:33:33-07:00</lastmod>
+  </url>
   
   <url>
     <loc>http://aasted.com/</loc>
+    <lastmod>2021-03-29T21:33:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aasted.com/categories/</loc>
     <lastmod>2016-11-27T12:09:19-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aasted.com/post/first_post/</loc>
+    <loc>http://aasted.com/first_post/</loc>
     <lastmod>2016-11-27T12:09:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aasted.com/categories/programming/</loc>
+    <lastmod>2016-11-27T12:09:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aasted.com/categories/site-maintenance/</loc>
+    <lastmod>2016-11-27T12:09:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aasted.com/tags/</loc>
   </url>
   
 </urlset>
